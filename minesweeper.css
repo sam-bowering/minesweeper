@@ -8,6 +8,7 @@ body {
   align-items: center;
   justify-content: flex-center;
   flex-direction: column;
+  background-color: black;
 }
 
 #message, #notes {
@@ -18,6 +19,7 @@ body {
 
 #message {
   font-size: 1.5rem;
+  color: white;
 }
 
 .board {
